@@ -20,5 +20,6 @@ jobs:
           ls
       - name: Upload Release File
         uses: softprops/action-gh-release@v2
+        if: startsWith(github.ref, 'refs/tags/')
         with:
           files: icon.png
