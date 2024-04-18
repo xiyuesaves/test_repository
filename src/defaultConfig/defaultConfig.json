@@ -1,0 +1,111 @@
+{
+  "debug": {
+    "console": false,
+    "mainConsole": false,
+    "showWeb": false,
+    "showChannedCommunication": false
+  },
+  "compatibleLLAPI": false,
+  "keywordReminder": {
+    "enabled": false,
+    "keyList": []
+  },
+  "wordSearch": {
+    "enabled": false,
+    "searchUrl": "https://www.bing.com/search?q=%search%"
+  },
+  "imageSearch": {
+    "enabled": false,
+    "searchUrl": "https://saucenao.com/search.php?url=%search%"
+  },
+  "localEmoticons": {
+    "enabled": false,
+    "quickEmoticons": false,
+    "quickEmoticonsAutoInputOnlyOne": false,
+    "quickEmoticonsActiveKey": "/",
+    "sendBigImage": false,
+    "majorization": true,
+    "commonlyEmoticons": false,
+    "copyFileTolocalEmoticons": false,
+    "toLeftSlot": false,
+    "hoverShowCommonlyEmoticons": false,
+    "commonlyNum": 20,
+    "rowsSize": 5,
+    "localPath": ""
+  },
+  "sidebar": {
+    "top": [],
+    "bottom": []
+  },
+  "imageViewer": {
+    "quickClose": false,
+    "touchMove": false
+  },
+  "message": {
+    "previreUrl": false,
+    "goBackMainList": false,
+    "HighlightReplies": false,
+    "disabledSticker": false,
+    "disabledHotGIF": false,
+    "disabledBadge": false,
+    "disabledSlideMultipleSelection": false,
+    "convertMiniPrgmArk": false,
+    "showMsgTime": false,
+    "showMsgTimeFullDate": false,
+    "showMsgTimeToSenderName": false,
+    "replaceBtn": false,
+    "doubleClickReplace": false,
+    "removeReplyAt": false,
+    "mergeMessage": false,
+    "mergeMessageKeepTime": false,
+    "selfMsgToLeft": false,
+    "onlyAvatar": false,
+    "removeBubbleLimit": false,
+    "overrideFont": "",
+    "removeVipName": false,
+    "imageAutoWidth": false,
+    "currentLocation": false,
+    "avatarSticky": {
+      "enabled": false,
+      "toBottom": false
+    }
+  },
+  "messageToImage": {
+    "enabled": false,
+    "highResolution": false,
+    "path": ""
+  },
+  "preventMessageRecall": {
+    "enabled": false,
+    "localStorage": false,
+    "customColor": false,
+    "preventSelfMsg": false,
+    "blockAllRetractions": false,
+    "textColor": "#ff6666"
+  },
+  "tail": {
+    "enabled": false,
+    "tips": false,
+    "list": []
+  },
+  "textAreaFuncList": [],
+  "chatAreaFuncList": [],
+  "preventEscape": false,
+  "advanceHookVue": false,
+  "setWindowIcon": false,
+  "background": {
+    "overlaySiderBar": false,
+    "removeMask": false,
+    "redrawCard": false,
+    "backgroundVisible": true,
+    "blurFilter": true,
+    "opacity": 0.5,
+    "enabled": false,
+    "url": ""
+  },
+  "global": {
+    "UA": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
+    "rkey": "&rkey=CAQSKAB6JWENi5LMk0kc62l8Pm3Jn1dsLZHyRLAnNmHGoZ3y_gDZPqZt-64",
+    "PIC_BASE_URL": "https://gchat.qpic.cn"
+  }
+}
