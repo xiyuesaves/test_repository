@@ -1,8 +1,8 @@
 name: 自动构建
 on: 
   push:
-  release:
-    types: [created]
+    tags:
+      - "v*"
 jobs:
   build:
     runs-on: ubuntu-latest
